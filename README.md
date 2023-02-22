@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LECHARLEBOIS
 - 👀 I’m interested in data analysis and data mangement
-- 🌱 I’m currently learning python, C++
+- 🌱 I’m currently learning python, SQL, css
+- 🌱 Learned c++ 
 - 💞️ I’m looking to collaborate on school project
 - 📫 How to reach me: www.linkedin.com/in/louisericcharlebois
 
